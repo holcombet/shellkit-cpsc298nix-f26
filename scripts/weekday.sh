@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo "Today is `date +%A`"
+echo "Today is $(date +%A)"
