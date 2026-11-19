@@ -1,1 +1,2 @@
 Remember to check hidden files with ls -a.
+Dotfiles are part of the project too.
