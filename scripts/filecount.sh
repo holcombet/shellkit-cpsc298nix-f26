@@ -4,7 +4,7 @@
 # Names that start with a dot are skipped.
 files=$(find . -maxdepth 1 -mindepth 1 -type f ! -name '.*' | wc -l)
 
-directory=1
+directory=0
 count=$((files + directory))
 
 echo "Files: $count"
