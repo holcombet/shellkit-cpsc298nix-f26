@@ -5,6 +5,8 @@ username="$USER"
 
 if [ -n "$username" ]; then
   echo "Hello, ${username}!"
+
+
 else
-  echo "Hello, ${username}!"
+  echo "Hello, friend!"
 fi
