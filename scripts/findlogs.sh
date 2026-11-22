@@ -3,4 +3,4 @@
 
 log_file="data/sample.log"
 
-grep "error" "$log_file"
+grep -i "error" "$log_file"
